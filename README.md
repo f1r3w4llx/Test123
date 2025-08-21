@@ -12,7 +12,7 @@ Additionally, Crypto26 supports **hashing functions**, making it an all-in-one s
 
 ## 📑 Table of Contents
 1. [Features](#-features)  
-2. [Usage](#️-usage)  
+2. [Usage](#-usage)  
 3. [License](#-license)  
 
 ---
